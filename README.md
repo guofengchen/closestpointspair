@@ -12,4 +12,4 @@ closestpointspair
 
 3.Python Supports large number of points, like 1000000
 
-
+4.Add some small python scripts like sort methods compare
